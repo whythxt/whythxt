@@ -12,4 +12,4 @@
 [![Spotify Badge](https://img.shields.io/badge/-whythat-1DB954?style=flat-square&logo=spotify&logoColor=white&link=https://open.spotify.com/user/d2whyc6xwtrc3o34nz7rcwrtt?si=21a266993a0b494d)](https://open.spotify.com/user/d2whyc6xwtrc3o34nz7rcwrtt?si=21a266993a0b494d) 
 
 **GitHub stats**
-<p align="center"><img height=190 src="https://github-readme-stats.vercel.app/api?username=whythxt&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="whythxt" /> <img height=190 src="https://github-readme-stats.vercel.app/api/top-langs/?username=whythxt&count_private=true&langs_count=10&theme=radical&layout=compact&include_all_commits=true" alt="whythxt" /></p>
+<p align="center"><img height=190 src="https://github-readme-stats.vercel.app/api?username=whytxt&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="whythxt" /> <img height=190 src="https://github-readme-stats.vercel.app/api/top-langs/?username=whythxt&count_private=true&langs_count=10&theme=radical&layout=compact&include_all_commits=true" alt="whythxt" /></p>
