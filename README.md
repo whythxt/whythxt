@@ -14,4 +14,4 @@
 
 **GitHub stats**
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=whythxt&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=whythxt&theme=material-palenight)
