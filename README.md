@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**whythxt/whythxt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Languages and Tools**  
 
-Here are some ideas to get you started:
+[<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png"></code>](https://www.swift.org)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Social Networks**
+
+[![Instagram Badge](https://img.shields.io/badge/-whythxt-D82B7E?style=flat-square&labelColor=D82B7E&logo=instagram&logoColor=white&link=https://instagram.com/whythxt)](https://instagram.com/whythxt)
+[![Telegram Badge](https://img.shields.io/badge/-whythxt-2ba5e0?style=flat-square&labelColor=2ba5e0&logo=telegram&logoColor=white&link=https://t.me/whythxt)](https://t.me/whythxt)
+[![Spotify Badge](https://img.shields.io/badge/-whythat-1DB954?style=flat-square&logo=spotify&logoColor=white&link=https://open.spotify.com/user/d2whyc6xwtrc3o34nz7rcwrtt?si=21a266993a0b494d)](https://open.spotify.com/user/d2whyc6xwtrc3o34nz7rcwrtt?si=21a266993a0b494d) 
+[![LinkedIn Badge](https://img.shields.io/badge/-whythxt-0A66CA?style=flat-square&labelColor=0A66CA&logo=linkedin&logoColor=white&link=https://github.com/whythxt)](https://www.linkedin.com/in/yurii-znakharchuk-65721b244/)
+
+**GitHub stats**
+<p align="center"><img height=190 src="https://github-readme-stats.vercel.app/api?username=whythxt&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="whythxt" /> <img height=190 src="https://github-readme-stats.vercel.app/api/top-langs/?username=whythxt&count_private=true&langs_count=10&theme=radical&layout=compact&include_all_commits=true" alt="whythxt" /></p>
