@@ -14,4 +14,4 @@
 
 **GitHub stats**
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=whythxt&hide=contribs,prs)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=whythxt&theme=radical)
