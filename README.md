@@ -13,4 +13,4 @@
 [![Spotify Badge](https://img.shields.io/badge/-whythat-1DB954?style=flat-square&logo=spotify&logoColor=white&link=https://open.spotify.com/user/d2whyc6xwtrc3o34nz7rcwrtt?si=21a266993a0b494d)](https://open.spotify.com/user/d2whyc6xwtrc3o34nz7rcwrtt?si=21a266993a0b494d) 
 
 **GitHub stats**
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=whythxt&hide=contribs,prs)
+(https://github-readme-stats.vercel.app/api?username=whythxt&hide=contribs,prs)
